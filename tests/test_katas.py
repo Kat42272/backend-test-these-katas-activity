@@ -25,7 +25,7 @@ class TestKatas(unittest.TestCase):
 
     def test_fibonacci(self):
         result = katas.fibonacci(10)
-        self.assertEqual(result, 55)
+        self.assertEqual(result, 34)
         # self.fail("TODO: Write fibonacci unit test")
 
 
